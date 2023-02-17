@@ -1,12 +1,5 @@
 <h1 align="center" >Projeto Design Interativo!</h1>
 
-<section align="center" style="display: inline_block;">  
-
-  <img align="center" width="20px" height="20px" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png">
-  <a href="athoswilliam.github.io/projDesignInterativo" target="_blank">See the website here!</a>
- 
-</section>
-
 <h2 style="font-size: 25px">👨🏽‍💻  About: </h2>
 <p>✅ An interaction project with website users;</p>
 <p>✅ Depending on the time of day, small changes to the site can be made, such as color styling, for example, increasing interactivity and customer immersion.</p>
